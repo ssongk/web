@@ -1,0 +1,7 @@
+<students>
+<student><name>김인보</name><dept>인보</dept><year>2020</year></student>
+<student><name>김치독</name><dept>인보</dept><year>2018</year></student>
+<student><name>이명지</name><dept>컴공</dept><year>2019</year></student>
+<student><name>박정통</name><dept>정통</dept><year>2020</year></student>
+<student><name>최전선</name><dept>정통</dept><year>2021</year></student>
+</students>
